@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bedeacd3d2ddfe041ac3934a91688ff9, type: 3}
   m_Name: New Quest
   m_EditorClassIdentifier: 
-  name: abc
-  quest: abcdef
-  icon: {fileID: 21300000, guid: f9ef2a1abd7e95c49ad92ccf1b6de413, type: 3}
+  name123: sadfdfhgfghfghfdhgfg
+  name8: 100
+  artwork: {fileID: 21300000, guid: f9ef2a1abd7e95c49ad92ccf1b6de413, type: 3}
